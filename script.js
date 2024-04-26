@@ -4,7 +4,7 @@ import { abi, contractAddress } from "./constants.js";
 const connectButton = document.getElementById("connectButton");
 const withdrawButton = document.getElementById("withdrawButton");
 const fundButton = document.getElementById("fundButton");
-const balanceButton = document.getElementById("balanceButton");
+const balanceButton = document.getElementById("balanceButton"); 
 connectButton.onclick = connect;
 withdrawButton.onclick = withdraw;
 fundButton.onclick = fund;
