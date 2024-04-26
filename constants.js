@@ -6,7 +6,7 @@ export const abi = [
           "internalType": "address",
           "name": "priceFeed",
           "type": "address"
-        }
+        } 
       ],
       "stateMutability": "nonpayable",
       "type": "constructor"
